@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Emma
-#### I am a 3+ experienced Software Developer
-- I've been working as software engineer at UBIX Innovations. 
+#### I am a Software Developer
+- I've been working as software engineer at UBIX Innovations.
 - I'm insterested in API development, Cloude server and so keep learning
 - Good team player with a positive manner
 
