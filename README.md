@@ -1,8 +1,5 @@
 ## Hi there 👋, my name is Emma
-#### I am a Software Developer
-- I've been working as software engineer at UBIX Innovations.
-- I'm insterested in API development, Cloude server and so keep learning
-- Good team player with a positive manner
+- I'm a software engineer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emma-kang&theme=dracula&show_icons=true&hide=stars,contribs) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma-kang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,7 +21,3 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-339933?style=flat-square&logo=html5&logoColor=white"/></a>
 
-<!--
-### :telephone: Contact 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuseon1216@gmail.com)](mailto:yuseon1216@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emma-yuseon-kang)](https://www.linkedin.com/in/emma-yuseon-kang//)
--->
