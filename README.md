@@ -1,7 +1,15 @@
-## Hi there 👋, my name is Emma
-- I'm a software engineer.
+![linkedIn_banner](https://user-images.githubusercontent.com/39141532/231313930-d0ad6d68-e64e-4a1d-a4a7-79491584db81.png)
+
+## Hi there 👋,
+- I'm a passionate software engineer who loves developing innovative and user-friendly <b>web applications</b>. 
+- My area of expertise is in full-stack development with a strong focus on React, Java, SQL, and various web technologies. 
+- I enjoy tackling complex problems and finding elegant solutions that make a positive impact on the user experience. 
+- As a lifelong learner, I'm always looking for opportunities to improve my skills and stay up-to-date with the latest industry trends. ;D
+
+</br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emma-kang&theme=dracula&show_icons=true&hide=stars,contribs) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma-kang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :zap: Tech Stack :zap:
